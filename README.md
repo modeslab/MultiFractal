@@ -1,2 +1,2 @@
 # MultiFractal
-Multi-Fractal Analysis of images using MFDFA and WTMMMM
+Multi-Fractal Analysis of 2D stochastic data (images) using MFDFA and WTMMMM.
