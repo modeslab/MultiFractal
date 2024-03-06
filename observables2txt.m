@@ -13,7 +13,7 @@ nf2=(numel(list2)-2)/2;
 % RK_d_alpha=zeros(1,nf2);
 % RK_d_alpha_int=RK_d_alpha;
 
-fileID = fopen('/Users/bahadori/Documents/sci_project/MFDFA/new_sorted_data/BAPN/BAPN_res.txt','a');
+fileID = fopen('your_txt_file.txt','a');
 
 % fprintf(fileID,'%s\t %s\t %s\t %s\t %s\t %s\t %s\t %s\t %s\t %s\n','age','lit_no','whole width',... % uncomment this line bfore runing this code for the first time for each stage to prduce titles of the columns
 %     'left side range','whole integral','left side integral','max loc',...
