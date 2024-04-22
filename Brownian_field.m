@@ -1,4 +1,5 @@
-% This function is adopted from https://de.mathworks.com/matlabcentral/fileexchange/38945-fractional-brownian-field-or-surface-generator
+% This function is adopted from:
+% Zdravko Botev (2024). Fractional Brownian field or surface generator (https://www.mathworks.com/matlabcentral/fileexchange/38945-fractional-brownian-field-or-surface-generator), MATLAB Central File Exchange. Abgerufen 22. April 2024.or
 
 function [field1,field2,tx,ty]=Brownian_field(H,n)
 %% simulate Fractional Brownian field on unit disk, with Hurst parameter 'H';
