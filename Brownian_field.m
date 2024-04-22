@@ -1,3 +1,5 @@
+% This function is adopted from https://de.mathworks.com/matlabcentral/fileexchange/38945-fractional-brownian-field-or-surface-generator
+
 function [field1,field2,tx,ty]=Brownian_field(H,n)
 %% simulate Fractional Brownian field on unit disk, with Hurst parameter 'H';
 %  Note that the covariance function is isotropic, see reference below.
