@@ -1,5 +1,5 @@
-% this code simulates ossification process for a fixed set of parameters and
-% visualizes the process over iteration steps. 
+% this code simulates ossification process for varying collagen fiber density (both length and numbers), and compares 
+% the MFDFA results of the generated paterns. 
 
 clear
 clc
